@@ -7,6 +7,9 @@ Projeto do site sobre Android criado no Cap. 17 do curso HTML e CSS
 -   HTML
 -   CSS
 
+## - APRENDIZADOS - 
+Estruturar o site com HTML e CSS básico, inserir links e imagens responsivas.
+
 
 
 
